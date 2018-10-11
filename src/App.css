@@ -1,0 +1,31 @@
+body {
+  background: #023436;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  padding-top: 15px;
+}
+
+.App{
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-family: Verdana ,Helvetica, sans-serif, arial;
+  font-size: 15px;
+}
+.App-ul{
+  width: 300px;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 25px;
+  padding-bottom:25px;
+  padding-left: 50px;
+  padding-top: 25px;
+  background: darkgreen;
+  font-size: 20px;
+
+}
+
+.App-li{
+  text-align: left;
+  
+}
